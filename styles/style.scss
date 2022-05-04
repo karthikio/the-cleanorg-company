@@ -860,3 +860,20 @@
     color: #4f4f4f;
   }
 }
+
+.home-nf{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 12vh;
+  width: 100%;
+  min-height: 100vh;
+
+  #vid{
+    width: 100%;
+  }
+
+  h1{
+    margin: 20px;
+  }
+}

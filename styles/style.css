@@ -966,4 +966,28 @@
 .nf-register .link, .nf-signin .link {
   color: #4f4f4f;
 }
+
+.home-nf {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 0 12vh;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.home-nf #vid {
+  width: 100%;
+}
+
+.home-nf h1 {
+  margin: 20px;
+}
 /*# sourceMappingURL=style.css.map */
