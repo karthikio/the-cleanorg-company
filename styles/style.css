@@ -990,4 +990,9 @@
 .home-nf h1 {
   margin: 20px;
 }
+
+.home-nf .text-s {
+  margin: 20px 0;
+  text-align: center;
+}
 /*# sourceMappingURL=style.css.map */
